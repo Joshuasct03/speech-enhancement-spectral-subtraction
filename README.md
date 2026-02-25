@@ -1,13 +1,13 @@
 # Speech Enhancement using Spectral Subtraction
 
-TEAM:
-Harisankar H
-Hashim S N
-Joshua Felix
-Kesav S P
-Livin R L
-Pranav J P
-Sreekanth S K
+# TEAM:
+Harisankar H,
+Hashim S N,
+Joshua Felix,
+Kesav S P,
+Livin R L,
+Pranav J P,
+Sreekanth S K,
 Vibhu V
 
 ## Objective
