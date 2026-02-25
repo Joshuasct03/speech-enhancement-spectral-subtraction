@@ -1,5 +1,15 @@
 # Speech Enhancement using Spectral Subtraction
 
+TEAM:
+Harisankar H
+Hashim S N
+Joshua Felix
+Kesav S P
+Livin R L
+Pranav J P
+Sreekanth S K
+Vibhu V
+
 ## Objective
 Reduce noise from corrupted speech signals using spectral subtraction.
 
